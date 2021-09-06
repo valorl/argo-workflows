@@ -40,7 +40,7 @@ spec:
         parameters:
           - name: message
             valueFrom:
-              path: /workpsace/message
+              path: /workspace/message
 ```
 
 There are a couple of caveats:
